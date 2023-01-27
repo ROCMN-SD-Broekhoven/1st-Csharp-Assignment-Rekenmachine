@@ -1,2 +1,2 @@
 # Rekenmachine
-schoolopdracht rekenmachine voor ROC Midden Nederland.
+Introductieopdracht C# rekenmachine voor ROC Midden Nederland.
